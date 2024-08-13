@@ -5,7 +5,7 @@
 I have 1.5 years of Python experience (7 months of which are commercial) I have experience with the following libraries: Flask, FastAPI, Pandas, NumPy, Matplotlib, pytest, tkinter, and others. I also actively studied C++ and C#. I worked as a mobile game developer and was a team leader in two projects. The first one was software for a car repair service (Python) and the second one was a virtual library (C#).
 
 
-## My and skills tools
+## My skills and tools
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,anaconda,cs,cpp,fastapi,linux,postgres,sqlite,ae,figma,git,github)](https://skillicons.dev)
 
 #
