@@ -1,18 +1,32 @@
-# Hi, my name is Liliia 💕
+# Hi, my name is Liliia 😊
 
 **`Python Developer`**
 
-I have 1.5 years of Python experience (7 months of which are commercial) I have experience with the following libraries: Flask, FastAPI, Pandas, NumPy, Matplotlib, pytest, tkinter, and others. I also actively studied C++ and C#. I worked as a mobile game developer and was a team leader in two projects. The first one was software for a car repair service (Python) and the second one was a virtual library (C#).
+Python Developer with a solid background in building web services, APIs, and data
+processing tools using FastAPI, Asyncio, and SQLAlchemy. Experienced in deploying
+applications with Docker and working in cloud environments. Strong contributor to teambased university projects, with proven leadership in delivering secure, scalable software.
 
 
 ## My skills and tools
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,anaconda,cs,cpp,fastapi,linux,postgres,sqlite,ae,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,docker,gitlab,css,anaconda,linux,postgres,sqlite,html,ae,figma,git,github)](https://skillicons.dev)
 
 #
 <!--## 🟢 Stats
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ililihayy&theme=radical)-->
 
 ## Work experience 💻
+
+### Python Backend Developer (part-time) 
+*october 2024 – present*
+
+- Maintained and debugged automated tests for backend systems
+- Parsed websites using BeautifulSoup and Aiohttp
+- Integrated external APIs (e.g. weather, holidays) for business logic
+- Deployed and fixed bugs in apps running on Google Cloud
+- Configured development tools: Ruff, Docker, Poetry, Git
+
+
+### Python Game Developer 
 *february 2024 - august 2024*
 
 My responsibilities included:
@@ -25,13 +39,12 @@ My responsibilities included:
 
 #
 ## Education 📒
-I am currently a 3rd year student at Ivan Franko University, majoring in cybersecurity. 
+I am currently a 4rd year student at Ivan Franko University, majoring in cybersecurity. 
 
 Also I participated in DES 2023 and SoftServe Cybersecurity practice 2023.
 #
 
 ## My social networks 🌏
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ililihay/)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilipushkar15@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ililihay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliia-pushkar-095b9b265)
